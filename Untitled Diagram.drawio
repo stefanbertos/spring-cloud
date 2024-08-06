@@ -37,7 +37,7 @@
         <mxCell id="KfJUkUHB5jhevkHiMozb-4" value="k8s config maps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KfJUkUHB5jhevkHiMozb-6" value="Spring Cloud Netflix Eureka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KfJUkUHB5jhevkHiMozb-6" value="Spring Cloud Kubernetes Discovery Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KfJUkUHB5jhevkHiMozb-7" value="Spring Cloud Sleuth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
