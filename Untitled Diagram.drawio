@@ -52,6 +52,12 @@
         <mxCell id="KfJUkUHB5jhevkHiMozb-10" value="Spring Cloud Data Flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-11" value="Spring Statemachine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-12" value="Spring integration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
