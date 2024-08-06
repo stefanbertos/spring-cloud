@@ -22,6 +22,36 @@
         <mxCell id="-uH2EFcJphFzesd2i5at-2" value="- Watch youtube tutorials&lt;div&gt;- read official guide&lt;/div&gt;&lt;div&gt;- write POC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;GameChanger - rancher desktop for windows&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="430" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KfJUkUHB5jhevkHiMozb-1" target="KfJUkUHB5jhevkHiMozb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-1" value="Spring Cloud Config Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-2" value="Config repo" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="375" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KfJUkUHB5jhevkHiMozb-1" target="KfJUkUHB5jhevkHiMozb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-4" value="k8s config maps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-6" value="Spring Cloud Netflix Eureka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-7" value="Spring Cloud Sleuth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-8" value="Spring Cloud Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-9" value="Soring Cloud Stream" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KfJUkUHB5jhevkHiMozb-10" value="Spring Cloud Data Flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
